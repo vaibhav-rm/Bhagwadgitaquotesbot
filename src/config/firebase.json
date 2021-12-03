@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bhagwad-gita-quotes",
+  "private_key_id": "271a2d727ebda7e0d45599093f9397d75a5f0a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8QiWxKjowGgIG\nBnXcpKcWpKfXEoQ0vf7+Pl16Fp/AXZyD/I4W4dZzqyf7cPRmf4R/NRTWMJGy448z\nhs+83Qj7BeL1fFcu62rtkJ8kwGhcJ4CPBovlj1arHPpWktrqYyf/LTHnPWhfLixZ\nmLyqpJFZUdIkKHmT8PdbYFURWBxCYoUat50FP6FBXK3PDnRsaHt6vQ3p8lkvZ51J\nvhWvzXY5v0bsNhxdt/+jFRYPDbsHjf8LcEIiltREC6kSAhf0XOn9lBc/Zbv2m1PZ\nion4cSGTYC33DBy2DU8ds7A+VkrqfyoFQdzVXozch6fx9LhCzzf6VhbPbpWTfDDg\nePrH41XXAgMBAAECggEARtn6R5Al8B6JrmzWBOFvBSWZCWetnA/5nQQpuB41p3dT\nxZTSgSgjxsqetJIRWVYarqlymx4SZ6ofJfxRyLnDfH39qfhO85ikWJ56VqGXZT90\nsd973TyyGJpCWTzR6S7CSdZflrDUzCWbiWjjcLGZBm210eftwdEJtzktKubnU9AL\nmNoC2RfOTA4go1UnPWN5mj9RBYY6+HfFvh8dyQ7/dufl1v2ybUTKED906L2zczfq\nONcp9dJRrf5HegU3wn1I+PpMr0sgN1lkD/NEHubgt2tlNSMxckGOhsgbPtYlSPqX\n/8hrHXHzP8P0/yZ3YWyJ/YCXGKhxn/4OO3DvNdupcQKBgQD7SeT10jQYsIr+XK3I\n4YUR9LvNomiDJG2bvaP30Z6OLr1m34voEIL2LxalICV6hzI0rkhL+KwkhQf0l2iJ\nEys6thAdkE2I4I29ihMv+cfUKfc6iJ9mxciJkFghsmHsozQv9mF3lzzgZAkVkUn9\nwaADp2WBsHFzk22eau7BMfS4CQKBgQC/ybpGmaf+eTZwMSBi8hSBXfk++9SvVQC6\nwK8UBC7r96A18ACtr267FI2JL+UK94mpVG8E0bO5XUPFKlTJ40T5f1d+fQ8XgQYh\ndY3U9uCF5umidWfWO8wTXFH/VjUnOf+f+WM0PpZpD78h02R3j4ocRnVF19MATiG1\nc8YVr8RW3wKBgQC3q7U8sB4ABdoyPU+QyrXXAAjdLt4xLMko0p4snvzDdApgTPkX\n8CmpA5YLr8l1G6hotRKG5QX903aTIq/3sRkh2r1Avp7Nc0Rmy6tmn62dt+bK092e\n4uXHFsg0KQxGSKv2eqGXJeYLJVM2fnGUlpf807fv6SWjkpjG9+X3NCpo8QKBgDPF\nZbZHJjUoTUytxjtPc7+UOYMKAdiujnrbJqe1lWD3QFUvC0/XSoHPw4Ej36U9Ovjt\npOZdITHJflDL44V4Bxd+i4TGh3tlxdzkWbwCRIuA0NKc9MG89JLJWg0eHU0Qd/Oc\nI25n8rw7lvGvmbA4nCST1HZdE0VC0hCkRvV1s/9rAoGBAOsqz9UO1d5U645+p9vU\nrCwY3CWXOr+kuhUItPkb+gKz99Vzgm205SCoq80kGtZDGbqAIJKNmAWTSdrdrSZ3\nWZYXuatIdXqm9rjQPyBOrte4m16pPb+5iPYiew6ygUM2fN0u2eWwH133rVWo/+WT\niNQqJUuRDlRv8ZwmmiPTjRNL\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7b19t@bhagwad-gita-quotes.iam.gserviceaccount.com",
+  "client_id": "107957479920191842894",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7b19t%40bhagwad-gita-quotes.iam.gserviceaccount.com"
+}
